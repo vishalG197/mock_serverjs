@@ -1,20 +1,18 @@
 {
-  "users": [
+  "dogs": [
     {
       "id": 1,
-      "name": "Chandra",
-      "age": 29,
+      "name": "Cherry",
+      "age": 2,
       "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "gender": "Male"
     },
     {
       "id": 2,
-      "name": "Nrupul",
-      "age": 32,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "FSD"
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }
